@@ -2745,7 +2745,11 @@
         "start": "2019-12-19",
         "end": "2019-12-27"
       },
-      "korea": null,
+      "korea": {
+        "title": "서머・슬로우 서머",
+        "start": "2020-06-29",
+        "end": "2020-07-06"
+      },
       "global": null,
       "china": null
     }
@@ -2767,7 +2771,11 @@
         "start": "2019-12-29",
         "end": "2020-01-07"
       },
-      "korea": null,
+      "korea": {
+        "title": "여름 저녁, 수면에 일렁이는 시와 꽃",
+        "start": "2020-07-08",
+        "end": "2020-07-15"
+      },
       "global": null,
       "china": null
     }
@@ -2789,7 +2797,11 @@
         "start": "2020-01-09",
         "end": "2020-01-18"
       },
-      "korea": null,
+      "korea": {
+        "title": "노블・로즈 -회명의 인도자-",
+        "start": "2020-07-17",
+        "end": "2020-07-24"
+      },
       "global": null,
       "china": null
     }
