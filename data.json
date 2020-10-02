@@ -2798,7 +2798,7 @@
         "end": "2020-01-18"
       },
       "korea": {
-        "title": "노블・로즈 -회명의 인도자-",
+        "title": "노블・로즈-회명의 인도자-",
         "start": "2020-07-17",
         "end": "2020-07-24"
       },
@@ -2823,7 +2823,11 @@
         "start": "2020-01-20",
         "end": "2020-01-29"
       },
-      "korea": null,
+      "korea": {
+        "title": "Run!♪ in the hallway",
+        "start": "2020-07-27",
+        "end": "2020-08-04"
+      },
       "global": null,
       "china": null
     }
@@ -2845,7 +2849,11 @@
         "start": "2020-01-31",
         "end": "2020-02-09"
       },
-      "korea": null,
+      "korea": {
+        "title": "꿈과 현실과 백 개의 노래",
+        "start": "2020-08-06",
+        "end": "2020-08-14"
+      },
       "global": null,
       "china": null
     }
@@ -2870,7 +2878,11 @@
         "start": "2020-02-11",
         "end": "2020-02-20"
       },
-      "korea": null,
+      "korea": {
+        "title": "Poppin' 할로윈 퍼레이드♪",
+        "start": "2020-08-17",
+        "end": "2020-08-25"
+      },
       "global": null,
       "china": null
     }
@@ -2892,7 +2904,11 @@
         "start": "2020-02-22",
         "end": "2020-03-02"
       },
-      "korea": null,
+      "korea": {
+        "title": "Do It Ourselves!!",
+        "start": "2020-08-27",
+        "end": "2020-09-04"
+      },
       "global": null,
       "china": null
     }
@@ -2914,7 +2930,11 @@
         "start": "2020-03-04",
         "end": "2020-03-13"
       },
-      "korea": null,
+      "korea": {
+        "title": "각자의 길, 이어진 붉은 하늘",
+        "start": "2020-09-07",
+        "end": "2020-09-16"
+      },
       "global": null,
       "china": null
     }
@@ -2936,7 +2956,11 @@
         "start": "2020-03-15",
         "end": "2020-03-22"
       },
-      "korea": null,
+      "korea": {
+        "title": "가을 색 하트풀 레터",
+        "start": "2020-09-18",
+        "end": "2020-09-25"
+      },
       "global": null,
       "china": null
     }
@@ -2958,7 +2982,11 @@
         "start": "2020-03-24",
         "end": "2020-03-31"
       },
-      "korea": null,
+      "korea": {
+        "title": "꿈에 변함없이 올곧게",
+        "start": "2020-09-28",
+        "end": "2020-10-05"
+      },
       "global": null,
       "china": null
     }
@@ -3192,7 +3220,10 @@
   {
     "linkId": "Backstage_Pass_3",
     "meta": {
-      "attribute": "powerful"
+      "attribute": "powerful",
+      "dreamFestival": {
+        "linkId": "3rd_Anniversary_Dream_Festival"
+      }
     },
     "type": "try",
     "region": {
@@ -3200,6 +3231,357 @@
         "title": "Backstage Pass 3",
         "start": "2020-03-16",
         "end": "2020-03-29"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Full_Swing!_Hello_Happy_Softball",
+    "meta": {
+      "attribute": "cool"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "フルスイング！　ハロハピソフトボール",
+        "start": "2020-03-31",
+        "end": "2020-04-08"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Luminary_Sakura_Symphony",
+    "meta": {
+      "attribute": "powerful"
+    },
+    "type": "try",
+    "region": {
+      "japan": {
+        "title": "花明かりのシンフォニー",
+        "start": "2020-04-10",
+        "end": "2020-04-18"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Play_Act!_Challenge*Audition",
+    "meta": {
+      "attribute": "pure"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "Play act！　チャレンジ＊オーディション",
+        "start": "2020-04-20",
+        "end": "2020-04-28"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "VIVA_LA_LIVE!",
+    "meta": {
+      "attribute": "happy",
+      "dreamFestival": {
+        "linkId": "Golden_Week_Memorial_Dream_Festival"
+      }
+    },
+    "type": "mission",
+    "region": {
+      "japan": {
+        "title": "VIVA LA LIVE！",
+        "start": "2020-04-30",
+        "end": "2020-05-08"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Let%27s_Perfect_Collection!",
+    "meta": {
+      "attribute": "pure"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "Let's パーフェクトコレクション！",
+        "start": "2020-05-10",
+        "end": "2020-05-19"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Latent_Heat,_Burning_Sky",
+    "meta": {
+      "attribute": "happy"
+    },
+    "type": "challenge",
+    "region": {
+      "japan": {
+        "title": "潜熱、空を焦がして",
+        "start": "2020-05-21",
+        "end": "2020-05-29"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Neo_Fantasy_Online_-Ancient_Dragon_Bride-",
+    "meta": {
+      "attribute": "pure"
+    },
+    "type": "try",
+    "region": {
+      "japan": {
+        "title": "Neo Fantasy Online -古竜と花嫁-",
+        "start": "2020-05-31",
+        "end": "2020-06-08"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "RAISE_A_SUILEN_%7ERaise_The_Curtain%7E_(Part_One)",
+    "meta": {
+      "attribute": "cool"
+    },
+    "type": "mission",
+    "region": {
+      "japan": {
+        "title": "RAISE A SUILEN～御簾を上げろ～（前編）",
+        "start": "2020-06-10",
+        "end": "2020-06-18"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "A_Sigh_Beyond_The_Rain",
+    "meta": {
+      "attribute": "powerful"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "ため息は雨上がりの向こう",
+        "start": "2020-06-20",
+        "end": "2020-06-28"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "A_Certain_Band%27s_Sports_Festival☆",
+    "meta": {
+      "attribute": "cool"
+    },
+    "type": "try",
+    "region": {
+      "japan": {
+        "title": "とあるバンドのスポーツフェスティバル☆",
+        "start": "2020-06-30",
+        "end": "2020-07-09"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "An_Étude_for_Fluttering",
+    "meta": {
+      "attribute": "happy"
+    },
+    "type": "mission",
+    "region": {
+      "japan": {
+        "title": "羽ばたきのためのエチュード",
+        "start": "2020-07-11",
+        "end": "2020-07-19"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Hello_Happy-like_Summer_Vacation",
+    "meta": {
+      "attribute": "pure"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "ハロハピ印のにこにこ夏休み",
+        "start": "2020-07-21",
+        "end": "2020-07-29"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Summer-Coloured_Sunshine_Days",
+    "meta": {
+      "attribute": "happy",
+      "dreamFestival": {
+        "linkId": "13_Million_Players_Dream_Festival"
+      }
+    },
+    "type": "mission",
+    "region": {
+      "japan": {
+        "title": "夏色サンシャインデイズ",
+        "start": "2020-07-31",
+        "end": "2020-08-09"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "The_Dignified_Fragrant_Wind%27s_Melody",
+    "meta": {
+      "attribute": "cool"
+    },
+    "type": "try",
+    "region": {
+      "japan": {
+        "title": "凛と薫る風の調べ",
+        "start": "2020-08-11",
+        "end": "2020-08-19"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Letters_from_Within_The_Sea",
+    "meta": {
+      "attribute": "happy"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "海の中からお便りを",
+        "start": "2020-08-21",
+        "end": "2020-08-29"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "RAISE_A_SUILEN_%7ERaise_The_Curtain%7E_(Part_Two)",
+    "meta": {
+      "attribute": "powerful"
+    },
+    "type": "mission",
+    "region": {
+      "japan": {
+        "title": "RAISE A SUILEN～御簾を上げろ～（後編）",
+        "start": "2020-08-31",
+        "end": "2020-09-08"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Brighter_brighter",
+    "meta": {
+      "attribute": "pure"
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "Brighter brighter",
+        "start": "2020-09-10",
+        "end": "2020-09-18"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "The_Warmth_That_Fills_This_Chest",
+    "meta": {
+      "attribute": "powerful"
+    },
+    "type": "try",
+    "region": {
+      "japan": {
+        "title": "この胸満たすあたたかさは",
+        "start": "2020-09-20",
+        "end": "2020-09-28"
+      },
+      "taiwan": null,
+      "korea": null,
+      "global": null,
+      "china": null
+    }
+  },
+  {
+    "linkId": "Have_a_good_HALLOWEEN!!",
+    "meta": {
+      "attribute": "pure",
+      "dreamFestival": {
+        "linkId": "2020_Halloween_Dream_Festival"
+      }
+    },
+    "type": "versus",
+    "region": {
+      "japan": {
+        "title": "Have a good HALLOWEEN！！",
+        "start": "2020-09-30",
+        "end": "2020-10-08"
       },
       "taiwan": null,
       "korea": null,
